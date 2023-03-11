@@ -1,0 +1,53 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/">
+    <bib:Document rdf:about="https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>The Atlantic</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bush</foaf:surname>
+                        <foaf:givenName>Vannevar</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_16"/>
+        <link:link rdf:resource="#item_17"/>
+        <dc:title>As We May Think</dc:title>
+        <dcterms:abstract>“Consider a future device …&amp;nbsp;&amp;nbsp;in which an individual stores all his books, records, and communications, and which is mechanized so that it may be consulted with exceeding speed and flexibility. It is an enlarged intimate supplement to his memory.”</dcterms:abstract>
+        <dc:date>1945-07-01T16:00:00Z</dc:date>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-02-08 22:50:14</dcterms:dateSubmitted>
+        <dc:description>Section: Technology</dc:description>
+    </bib:Document>
+    <bib:Memo rdf:about="#item_16">
+        <rdf:value>&lt;blockquote&gt;Babbage, even with remarkably generous support for his time, could not produce his great arithmetical machine. His idea was sound enough, but construction and maintenance costs were then too heavy.&lt;/blockquote&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_17">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-02-08 22:50:19</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+</rdf:RDF>
