@@ -1,3 +1,0 @@
-#FromClayTabletstoWeb #HowThePageMatters #DataStorage #Link 
-
-The argument made by Author Bonnie Mak in [[@How The Page Matters]]- That pages are more than just paper spaces to write in- Is greatly strengthened by the article [[@From Clay Tablets to Web]]. The article itself literally details how the earliest forms of "page" were not paper, but clay, and used for similar purposes such as cataloguing items.
